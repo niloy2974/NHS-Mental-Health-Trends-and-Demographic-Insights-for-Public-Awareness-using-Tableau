@@ -4,6 +4,7 @@ This Tableau dashboard explores UK mental health trends, highlighting prevalence
 This dashboard [(Tableau Link)](https://public.tableau.com/views/CapstoneVIsualisation-1NHSMentalHealthTrendsandInsights/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) is designed as a public-facing visualisation aimed at international news organisations and general audiences. It focuses on the growing issue of mental health within the UK, presenting clear, data-driven insights into trends, demographic differences, and service engagement patterns. By combining high-level summaries with interactive visuals, the dashboard translates complex NHS data into an accessible narrative that encourages understanding, empathy, and open discussion. It raises awareness about the scale of the mental health crisis, highlights where gaps in care exist, and draws attention to the populations most at risk. For policymakers, journalists, and advocacy groups, this tool serves as both an educational resource and a springboard for campaigns that challenge stigma and promote proactive wellbeing.
 ## Dataset and Preprocessing
 **Dataset:** England Outpatients Reference Tables [(NHS source)](https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-bulletin/2023-24-annual-report).
+
 **Preprocessing steps:**
 1. Removed missing and inconsistent values to maintain accuracy.
 2. Dropped metadata, glossary rows, and irrelevant columns to streamline the dataset.
